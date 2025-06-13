@@ -11,4 +11,4 @@ To analyze timestamped events (e.g. messages, posts) and identify periods of inc
 
 ## 📥 Input
 
-A plain text file with space-separated time intervals (offsets), like:
+A plain text file with space-separated time intervals (offsets), choose one of the txt's:two_states.txt,three_states.txt,four_states.txt
