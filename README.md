@@ -1,9 +1,9 @@
 # bellman-viterbi
-# Burst Detection with Viterbi and Trellis Algorithms
+# Burst Detection with Viterbi and Bellman Algorithms
 
 This tool detects bursts in sequences of message offsets (time gaps between events) using two algorithms:
-- **Viterbi-based burst detection**, based on Kleinberg's model.
-- **Trellis-based dynamic programming** (Bellman-Ford inspired).
+- **Viterbi-based burst detection**.
+- **Bellman ford-based dynamic programming**.
 
 ## 🔍 Purpose
 
